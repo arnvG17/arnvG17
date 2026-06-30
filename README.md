@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/download (7).jpg" width="100%" alt="banner"/>
 
 
-<img  
+  
 
 <h1>arnav gawandi</h1>
 
@@ -73,9 +73,7 @@ I build storefronts for small businesses that don't want to bleed money on Shopi
 <br/>
 
 <div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=arnvG17&show_icons=true&theme=tokyonight&hide_border=true)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=arnvG17&theme=tokyonight&hide_border=true)
+ 
 
 ### contribution globe
 

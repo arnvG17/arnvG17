@@ -94,6 +94,8 @@ infra         Git · Docker · Pyodide · ASR
 ![stats](https://github-readme-stats.vercel.app/api?username=arnvG17&show_icons=true&theme=tokyonight&hide_border=true)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=arnvG17&theme=tokyonight&hide_border=true)
 
+### contribution globe
+
 <!-- combined isometric + radar + language-donut card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnvG17&theme=github_dark" width="100%" />
 

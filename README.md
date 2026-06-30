@@ -94,8 +94,8 @@ infra         Git · Docker · Pyodide · ASR
 ![stats](https://github-readme-stats.vercel.app/api?username=arnvG17&show_icons=true&theme=tokyonight&hide_border=true)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=arnvG17&theme=tokyonight&hide_border=true)
 
-<!-- 3D isometric / radar contribution view — swap params to taste at commitpulse.vercel.app -->
-<img src="https://commitpulse.vercel.app/api/svg?username=arnvG17&view=skyline&theme=dracula" width="100%" />
+<!-- combined isometric + radar + language-donut card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnvG17&theme=github_dark" width="100%" />
 
 </div>
 

@@ -2,6 +2,8 @@
 
 <!-- Swap this for your halftone/banner image once generated -->
 <img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/35169f77d14878a39f31ec1ffac3e115.jpg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/35169f77d14878a39f31ec1ffac3e115.jpg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/35169f77d14878a39f31ec1ffac3e115.jpg" width="100%" alt="banner"/>
 
 <img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/448012eca5925d8fbc63f4c3ad07a7ae.jpg" width="140" style="border-radius:50%; margin-top: -60px;" />
 

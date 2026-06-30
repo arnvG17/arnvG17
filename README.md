@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Swap this for your halftone/banner image once generated -->
-<img src="./assets/banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/35169f77d14878a39f31ec1ffac3e115.jpg" width="100%" alt="banner"/>
 
-<img src="./assets/profile.jpg" width="140" style="border-radius:50%; margin-top: -60px;" />
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/448012eca5925d8fbc63f4c3ad07a7ae.jpg" width="140" style="border-radius:50%; margin-top: -60px;" />
 
 <h1>arnav gawandi</h1>
 
@@ -45,30 +45,11 @@ I build storefronts for small businesses that don't want to bleed money on Shopi
 
 ### stack
 
-```
-languages     JavaScript · Python · SQL
-full-stack    MERN · Next.js · REST APIs · WebRTC
-AI/ML         RAG pipelines · multi-agent orchestration · context engineering · scikit-learn
-infra         Git · Docker · Pyodide · ASR
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,py,postgres,react,nodejs,express,mongodb,nextjs,git,docker&theme=dark" />
+</p>
 
 <br/>
-
-### wins
-
-🏆 Domain Winner, Web/Application Track — Lines of Code 8.0 Hackathon (DJS ACM)
-☁️ AWS Academy Graduate — Data Engineering & Cloud Foundations
-
-<br/>
-
-### achievements & hackathons
-
-```
-┏[ 🏆 HALL OF FAME 🏆 ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🥇 Domain Winner — Web/App Track, LOC 8.0 (DJS ACM) ┃
-┃ ☁️  AWS Academy Graduate — Data Engg & Cloud Found. ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 ### currently exploring
 

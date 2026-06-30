@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Swap this for your halftone/banner image once generated -->
-<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/35169f77d14878a39f31ec1ffac3e115.jpg" width="100%" alt="banner"/>
-<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/.github/workflows/download (7).jpg" width="100%" alt="banner"/>
-<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/locked in.jpg" width="100%" alt="banner"/>
+ 
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/download (7).jpg" width="100%" alt="banner"/>
 
-<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/mai/.github/workflows/e95f75b970615f214a713f24239868e2.jpg" width="140" style="border-radius:50%; margin-top: -60px;" />
+
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/e95f75b970615f214a713f24239868e2.jpg" width="140" style="border-radius:50%; margin-top: -60px;" />
 
 <h1>arnav gawandi</h1>
 
@@ -106,4 +106,4 @@ I build storefronts for small businesses that don't want to bleed money on Shopi
 <div align="center">
 <sub>open to internships, freelance e-commerce builds, and anyone who wants to talk about agent architectures longer than is socially acceptable.</sub>
 </div>
-<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/e95f75b970615f214a713f24239868e2.jpg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/locked in.jpg" width="100%" alt="banner"/>

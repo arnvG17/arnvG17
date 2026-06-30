@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/download (7).jpg" width="100%" alt="banner"/>
 
 
-<img src="https://raw.githubusercontent.com/arnvG17/arnvG17/main/.github/workflows/e95f75b970615f214a713f24239868e2.jpg" width="140" style="border-radius:50%; margin-top: -60px;" />
+<img  
 
 <h1>arnav gawandi</h1>
 
